@@ -72,7 +72,7 @@
    <repository>
      <id>github</id>
      <name>GitHub poojadpatkar Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/DevTools-Dev20/octo</url>
+     <url>https://maven.pkg.github.com/DevTools-github-2020/literate-doodle</url>
    </repository>
   </distributionManagement>
 
