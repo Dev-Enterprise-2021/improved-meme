@@ -72,13 +72,8 @@
     <repository>
         <id>central</id>
         <name>artifactory-pro-releases</name>
-        <url>http://jfrogartifactorypro.tk/artifactory/cloud-rep-local</url>
+        <url>https://jfrogartifactorypro.tk/artifactory/cloud-rep-local</url>
     </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>artifactory-pro-snapshots</name>
-        <url>http://jfrogartifactorypro.tk/artifactory/cloud-rep-local</url>
-    </snapshotRepository>
 </distributionManagement>
   
   
